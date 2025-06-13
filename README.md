@@ -41,7 +41,7 @@
 
 - El script Python (`generacion_reporte/add_50.py` y `generacion_reporte/add_100.py`) modifica las variables del JMX para activar el escenario correcto:  
   - Variables: `RUN_add_100` y `RUN_add_50`
-- Se adjunta evidencia de la última ejecución realizada, guardada como  
+- Se adjunta evidencia de la última ejecución realizada como reporte tecnico para el area de desarrollo, guardada como  
   `"evidencias-13062025\reportes\...\index.html"`
 
 ### Recursos

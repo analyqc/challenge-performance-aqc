@@ -1,0 +1,50 @@
+{
+  "Login - Obtener JWT" : {
+    "transaction" : "Login - Obtener JWT",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 2708.0,
+    "medianResTime" : 2708.0,
+    "minResTime" : 2708.0,
+    "maxResTime" : 2708.0,
+    "pct1ResTime" : 2708.0,
+    "pct2ResTime" : 2708.0,
+    "pct3ResTime" : 2708.0,
+    "throughput" : 0.36927621861152143,
+    "receivedKBytesPerSec" : 0.9098475581610044,
+    "sentKBytesPerSec" : 0.08150041543574593
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 7569,
+    "errorCount" : 3383,
+    "errorPct" : 44.69547,
+    "meanResTime" : 152.10358039371113,
+    "medianResTime" : 113.0,
+    "minResTime" : 108.0,
+    "maxResTime" : 2733.0,
+    "pct1ResTime" : 176.0,
+    "pct2ResTime" : 422.0,
+    "pct3ResTime" : 723.0,
+    "throughput" : 125.82076898781521,
+    "receivedKBytesPerSec" : 74.2400971364513,
+    "sentKBytesPerSec" : 31.318895244942404
+  },
+  "POST  products-add 100" : {
+    "transaction" : "POST  products-add 100",
+    "sampleCount" : 7568,
+    "errorCount" : 3383,
+    "errorPct" : 44.701374,
+    "meanResTime" : 151.76585623678673,
+    "medianResTime" : 113.0,
+    "minResTime" : 108.0,
+    "maxResTime" : 2733.0,
+    "pct1ResTime" : 176.0,
+    "pct2ResTime" : 422.0,
+    "pct3ResTime" : 722.3099999999995,
+    "throughput" : 125.84807769056805,
+    "receivedKBytesPerSec" : 74.22505082230278,
+    "sentKBytesPerSec" : 31.326162001546493
+  }
+}

@@ -15,10 +15,11 @@
 ## Estructura del Proyecto
 
 - **Parte1.md**: Análisis y recomendaciones de pruebas de performance.
-- **test_plan.jmx**: Script de JMeter para pruebas de carga.
-- **ejecucion_grupal.bat**: Batch unificado para ejecutar el escenario deseado y generar reportes técnicos.  
-  *Este ejecuta scripts de la carpeta `generacion_reporte` y genera el reporte técnico en la carpeta `evidencias`.*
-- **Informe_Ejecutivo_Performance.pptx**: Reporte de resultados para personas no técnicas.
+- **Parte12**
+     - ***test_plan.jmx***: Script de JMeter para pruebas de carga.
+     - ***ejecucion_grupal.bat***: Batch unificado para ejecutar el escenario deseado y generar reportes técnicos.  
+       **Este ejecuta scripts de la carpeta `generacion_reporte` y genera el reporte técnico en la carpeta `evidencias`.**
+     - ***Informe_Ejecutivo_Performance.pptx***: Reporte de resultados para personas no técnicas.
 
 ### Ejecución de las Pruebas
 
